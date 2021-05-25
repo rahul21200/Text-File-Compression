@@ -156,7 +156,7 @@ class HuffmanCoding:
         return
             
     
-path = 'C:/Users/Rahul Kapoor/Downloads/viva qna.txt'
-h = HuffmanCoding(path)
-output_path = h.compress()
-h.decompress(output_path)
+#path = 'C:/Users/Rahul Kapoor/Downloads/viva qna.txt'
+#h = HuffmanCoding(path)
+#output_path = h.compress()
+#h.decompress(output_path)
